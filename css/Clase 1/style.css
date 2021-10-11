@@ -1,0 +1,33 @@
+
+h1{
+    color: crimson;
+}
+
+p{
+
+    color: cyan;
+}
+
+
+
+#parrafo3 {
+    color: darkorange;
+}
+/* #parrafo5, #parrafo6{color: gold;}
+ */
+.amarillo{
+    color: yellow;
+}
+#nombre1{
+    background-color: red;
+}
+
+#nombre2 {
+    background-color: salmon;
+}
+#nombre3 {
+    background-color: green;
+}
+#rgb1{
+    background-color: rgb(255,255,255);
+}

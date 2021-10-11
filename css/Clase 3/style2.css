@@ -1,0 +1,46 @@
+*{
+    margin: 0;}
+/* } limpia los margenes  */
+
+
+div{
+    text-align: center;
+    color: yellow;
+    /* margin-top: 15px;
+    margin-right: 25px;
+    margin-bottom: 30px;
+    margin-left: 10px; */
+    /* margin: 20px 40px 5px; */
+    margin: 10px 50px 80px 120px;
+    /* border: 5px solid yellow; */
+    /* border-radius: 50%; sirve para redondear las lineas */
+    
+    padding: 10px;
+    /* espacio hacia adentro */
+}
+section{
+    background-color: turquoise;
+    text-align: center;
+    color: teal;
+    margin: 10px;
+    border: 50px chocolate;
+    width: 100px;
+    padding: 40px;
+    height: 20px;
+    box-sizing: content-box;
+    /* No se debe de poner altura ya que se puede romper */
+    /* 100x36 */
+}
+#div1{
+    background-color: chartreuse;
+    height: 50px;
+}
+#div2{
+    height: 80px;
+    background-color: chocolate;
+}
+#div3{
+    height: 80px;
+    background-color: cornflowerblue;
+}
+
